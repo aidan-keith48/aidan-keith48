@@ -7,10 +7,8 @@
 
 ## 🔭 I'm currently working on:
 - Developing a **full-stack application** using **ASP.NET Web App 4.8** for the frontend and a **TypeScript Node.js API** for the backend.  
-- Working on three additional projects:  
-  - **Mobile Application**: Focused on delivering a seamless user experience and integrating backend APIs.  
-  - **Banking Application**: Implementing secure money transfer features and role-based dashboards.  
-  - **Municipality Application**: Managing local events and announcements with interactive features.
+- Working on 1 additional projects:  
+  - **Wedding planner web app**: recently started development on this web app where im going to create small backend and beauitful frontend to help recerntly engaged couples sort out their plans in basic form
 
 ---
 
