@@ -6,7 +6,7 @@
 ---
 
 ## 🔭 I'm currently working on:
-- Developing a **full-stack application** using **ASP.NET Web App 4.8** for the frontend and a **TypeScript Node.js API** for the backend.  
+- Developing a **full-stack application** using **ASP.NET Web App 4.8** for the frontend and a **TypeScript Node.js API** for the backend this is taking up most of my time as its a big project so other projects have been put on hold.  
 - Working on 1 additional projects:  
   - **Wedding planner web app**: recently started development on this web app where im going to create small backend and beauitful frontend to help recerntly engaged couples sort out their plans in basic form
 
