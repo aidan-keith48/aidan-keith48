@@ -13,7 +13,7 @@
 ---
 
 ## 🌱 I'm currently learning:
-- **Python**: Exploring the basics through [Hyperskill by JetBrains](https://hyperskill.org) to strengthen foundational programming skills.  
+- **Intro to data science**: Exploring the basics and real world problems through [Hyperskill by JetBrains](https://hyperskill.org) to strengthen my understanding of data science.  
 - **JavaScript and TypeScript**: Gaining hands-on experience through various school projects, focusing on full-stack development.  
 - **Git and Version Control**: Improving workflow efficiency and collaboration through practical applications in team-based projects.  
 
