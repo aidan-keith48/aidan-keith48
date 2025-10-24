@@ -1,21 +1,22 @@
 # Hi 👋, I'm Aidan Keith Naidoo
 
-🚀 **Final-year Computer Science student specializing in Application Development**  
-🎯 Passionate about coding, problem-solving, and creating efficient solutions.
+🚀 **Computer Science graduate specializing in Application Development**  
+🎯 Passionate about coding, creative problem-solving, and building tools that make a real-world impact.
 
 ---
 
 ## 🔭 I'm currently working on:
-- Developing a **full-stack application** using **ASP.NET Web App 4.8** for the frontend and a **TypeScript Node.js API** for the backend this is taking up most of my time as its a big project so other projects have been put on hold.  
-- Working on 1 additional projects:  
-  - **Wedding planner web app**: recently started development on this web app where im going to create small backend and beauitful frontend to help recerntly engaged couples sort out their plans in basic form
+- **Paint the Cradle Pink**: A full-stack web app for a breast cancer awareness cycling campaign, featuring admin controls, user authentication, and scalable deployment.
+- In early talks for a new project — details coming soon.
+- Recently completed the **Wedding Planner Web App**, a responsive platform designed to help couples organize their plans with a clean frontend and simple backend.
 
 ---
 
 ## 🌱 I'm currently learning:
-- **Intro to data science**: Exploring the basics and real world problems through [Hyperskill by JetBrains](https://hyperskill.org) to strengthen my understanding of data science.  
-- **JavaScript and TypeScript**: Gaining hands-on experience through various school projects, focusing on full-stack development.  
-- **Git and Version Control**: Improving workflow efficiency and collaboration through practical applications in team-based projects.  
+- **Intro to Python**: Completed through [Hyperskill by JetBrains](https://hyperskill.org), covering the fundamentals of programming and scripting.
+- **Intro to Data Science**: Nearing completion, exploring real-world problems and statistical modelling using Python.
+- **JavaScript and TypeScript**: Gaining hands-on experience through full-stack development projects.
+- **Git and Version Control**: Strengthening collaboration and workflow efficiency through team-based coding.
 
 ---
 
@@ -48,7 +49,8 @@
 - **Proficient With:**  
   ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=black)  
   ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)  
-  ![SSMS](https://img.shields.io/badge/-SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+  ![SSMS](https://img.shields.io/badge/-SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)  
+  ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
 - **Basic Experience With:**  
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
@@ -59,13 +61,8 @@
 
 - **Proficient With:**  
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)  
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)  
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 - **Basic Experience With:**  
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)  
   ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-
----
-
-## 📊 GitHub Stats:
-![Aidan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aidan-keith48&show_icons=true&theme=dark)
