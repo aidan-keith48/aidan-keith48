@@ -14,7 +14,7 @@
 
 ## 🌱 I'm currently learning:
 - **Intro to Python**: Completed through [Hyperskill by JetBrains](https://hyperskill.org), covering the fundamentals of programming and scripting.
-- **Intro to Data Science**: Nearing completion, exploring real-world problems and statistical modelling using Python.
+- **Intro to Data Science**: Completed, exploring real-world problems and statistical modelling using Python.
 - **JavaScript and TypeScript**: Gaining hands-on experience through full-stack development projects.
 - **Git and Version Control**: Strengthening collaboration and workflow efficiency through team-based coding.
 
