@@ -7,16 +7,31 @@
 
 ## 🔭 I'm currently working on:
 - **Paint the Cradle Pink**: A full-stack web app for a breast cancer awareness cycling campaign, featuring admin controls, user authentication, and scalable deployment.
-- In early talks for a new project — details coming soon.
-- Recently completed the **Wedding Planner Web App**, a responsive platform designed to help couples organize their plans with a clean frontend and simple backend.
+- **In early talks for a new project — details coming soon.**
 
 ---
 
-## 🌱 I'm currently learning:
-- **Intro to Python**: Completed through [Hyperskill by JetBrains](https://hyperskill.org), covering the fundamentals of programming and scripting.
-- **Intro to Data Science**: Completed, exploring real-world problems and statistical modelling using Python.
-- **JavaScript and TypeScript**: Gaining hands-on experience through full-stack development projects.
-- **Git and Version Control**: Strengthening collaboration and workflow efficiency through team-based coding.
+## 🏆 Courses & Certifications
+I’ve dedicated time to building a strong foundation in backend development, data analysis, and cloud infrastructure.
+
+- **Python Programming** – [Hyperskill by JetBrains]
+
+- **Intro to Flask** – Backend web development and API creation.
+
+- **Intro to Data Science** – Statistical modeling and real-world problem solving.
+
+- **Pandas for Data Analysis** – Deep dive into data manipulation and cleaning.
+
+- **AWS Cloud Essentials** – Understanding cloud architecture and core services.
+
+## 🚀 What I’m Working On
+- **I’m currently shifting my focus toward the cutting edge of intelligence and automation.**
+
+- **Currently Learning: AI Engineering (Building LLM-powered apps, RAG, and fine-tuning).**
+
+- **Up Next: DevOps & CI/CD (Automating deployments and scaling infrastructure).**
+
+- **Hands-on: Refining my JavaScript & TypeScript skills through full-stack side projects.**
 
 ---
 
