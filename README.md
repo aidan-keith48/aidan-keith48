@@ -27,9 +27,9 @@ I’ve dedicated time to building a strong foundation in backend development, da
 ## 🚀 What I’m Working On
 - **I’m currently shifting my focus toward the cutting edge of intelligence and automation.**
 
-- **Currently Learning: AI Engineering (Building LLM-powered apps, RAG, and fine-tuning).**
+- **Currently Learning: AI Engineering (Building LLM-powered apps, RAG, fine-tuning, and safe deployment of models using devops).**
 
-- **Up Next: DevOps & CI/CD (Automating deployments and scaling infrastructure).**
+- **Up Next: Advanced DevOps & CI/CD (Automating deployments and scaling infrastructure).**
 
 - **Hands-on: Refining my JavaScript & TypeScript skills through full-stack side projects.**
 
